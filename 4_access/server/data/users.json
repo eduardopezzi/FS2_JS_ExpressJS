@@ -1,0 +1,10 @@
+{ 
+    "user" : "Eduardo",
+    "password" : "123456",
+    "active" : true
+},
+{
+    "user" : "John",
+    "password" : "123qwe",
+    "active" : false
+}
